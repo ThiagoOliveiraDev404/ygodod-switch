@@ -1,0 +1,6 @@
+# Opcoes do runtime (KEY=VALUE, uma por linha). '#' comenta a linha.
+# Para diagnostico, tire o '#' destas linhas:
+#RECOMP_USB_STATS=1
+#RECOMP_NX_PROFILE=1
+# Botoes pela posicao do controle de Xbox (A<->B, X<->Y) em vez do nome:
+#RECOMP_PAD_LAYOUT=position
